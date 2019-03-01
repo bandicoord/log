@@ -1,1 +1,1 @@
-module github.com/code-baracka/log
+module github.com/bandicoord/log
